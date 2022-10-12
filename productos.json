@@ -1,1 +1,27 @@
-[{"title":"Regla","price":60.55,"id":1},{"title":"Lapicera","price":80,"id":3}]
+    
+[
+    {
+        "title": "Regla",
+        "price": 43.43,
+        "thumbnail": "someUrl.com",
+        "id": 1
+    },
+    {
+        "title": "Goma",
+        "price": 12.36,
+        "thumbnail": "someUrl.com",
+        "id": 2
+    },
+    {
+        "title": "Lapicera",
+        "price": 100,
+        "thumbnail": "someUrl.com",
+        "id": 3
+    },
+    {
+        "title": "Cuaderno A4",
+        "price": 200,
+        "thumbnail": "someUrl.com",
+        "id": 4
+    }
+]

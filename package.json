@@ -1,0 +1,21 @@
+{
+    "name": "desafio-backend",
+    "version": "1.0.0",
+    "description": "Desafio Coder",
+    "main": "serverExpress.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "http": "nodemon --inspect serverHttp.js",
+      "express": "nodemon --inspect serverExpress.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/thomastiscornia/backend-coderhouse"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/thomastiscornia/backend-coderhouse/issues"
+    },
+    "homepage": "https://github.com/thomastiscornia/backend-coderhouse#readme"
+  }
