@@ -1,14 +1,13 @@
-    
 [
     {
-        "title": "Regla",
-        "price": 43.43,
+        "title": "Escuadra",
+        "price": 75.66,
         "thumbnail": "someUrl.com",
         "id": 1
     },
     {
-        "title": "Goma",
-        "price": 12.36,
+        "title": "Calculadora",
+        "price": 72.66,
         "thumbnail": "someUrl.com",
         "id": 2
     },
@@ -20,7 +19,7 @@
     },
     {
         "title": "Cuaderno A4",
-        "price": 200,
+        "price": 139.99,
         "thumbnail": "someUrl.com",
         "id": 4
     }
